@@ -1,2 +1,2 @@
 # Git-lab-Chinmayi
-Creating a remote Repository using clone.
+this is a repository to demonstrate git hub cloning
